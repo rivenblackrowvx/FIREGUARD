@@ -61,7 +61,7 @@ event timeline that can be replayed on the map.
 <img src="docs/images/02-smoke-cameras.jpg" alt="Camera smoke detection network" width="100%">
 
 Tower cameras → AI smoke detection → confidence → estimated fire bearing and
-location. Imagery comes from the open [Pyronear PYRO-SDIS](https://huggingface.co/datasets/pyronear/pyro-sdis) dataset.
+location. Imagery comes from the open [Pyronear PYRO-SDIS](https://huggingface.co/datasets/pyronear/pyro-sdis) dataset (Apache-2.0 — see [NOTICE.md](NOTICE.md)).
 
 ### Hardware & verification
 <table>
